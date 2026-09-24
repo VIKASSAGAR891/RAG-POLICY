@@ -1,0 +1,2 @@
+{"question":"What is the effective date of the agreement?","ground_truth":"Replace this with the expected answer from your selected document.","document":"example.pdf","relevant_section":"Section 1"}
+{"question":"Under what conditions may the agreement be terminated?","ground_truth":"Replace this with the expected answer and keep the source clause.","document":"example.pdf","relevant_section":"Section 8"}

@@ -53,13 +53,8 @@ The primary objectives of the project are:
 
 # 3. Complete System Architecture
 
-The complete architecture is represented by the `architecture.png` file included with this project.
-
-Place the image in the project root:
-
-```text
-architecture.png
-```
+The following diagram represents the complete architecture of the implemented system, including document ingestion, indexing, hybrid retrieval, reranking, answer generation, and evaluation.
+![Complete System Architecture](architecture.png)
 
 The architecture contains two major workflows:
 
